@@ -1,0 +1,20 @@
+EASYWas the level selected
+PAIN (Is the generated answer)
+HARDWas the level selected
+COMPTROLLER (Is the generated answer)
+HARDWas the level selected
+MAYONNAISE (Is the generated answer)
+HARDWas the level selected
+DECISION (Is the generated answer)
+HARDWas the level selected
+ARMAMENT (Is the generated answer)
+HARDWas the level selected
+SOLUTION (Is the generated answer)
+HARDWas the level selected
+PARAMETER (Is the generated answer)
+HARDWas the level selected
+COMPTROLLER (Is the generated answer)
+HARDWas the level selected
+COMMONSENSE (Is the generated answer)
+MEDIUMWas the level selected
+LETTER (Is the generated answer)
